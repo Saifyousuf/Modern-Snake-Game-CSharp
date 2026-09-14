@@ -327,9 +327,7 @@ This project was developed as a **C# Object-Oriented Programming project** to de
 ## 👨‍💻 Project Members
 
 * **Saif Yousuf**
-* **Md Sheum Mondol**
-* **Md Mahmudul Islam**
-* **Sarder Tanvir Ahmed Jibon**
+
 
 ## 📌 Project Status
 
